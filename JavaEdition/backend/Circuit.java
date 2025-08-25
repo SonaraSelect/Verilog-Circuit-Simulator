@@ -1,4 +1,4 @@
-package backend;
+package JavaEdition.backend;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -276,11 +276,6 @@ public class Circuit {
                 sched.get(level).get(entityName).calculateState();
             }
         }
-    }
-
-    // TODO make this
-    public String createOutputFile() {
-        return "filepath";
     }
 
     /**

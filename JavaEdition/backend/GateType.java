@@ -1,9 +1,9 @@
-package backend;
+package JavaEdition.backend;
 
 public enum GateType {
     INPUT, OUTPUT, WIRE, AND, NAND, OR, NOR, NOT, DFF, BUF;
 
-    static String readType(GateType type){
+    static String readType(GateType type) {
         switch (type) {
             case INPUT:
                 return "INPUT";
@@ -15,7 +15,7 @@ public enum GateType {
                 return "WIRE";
 
             case AND:
-                return "AND"; 
+                return "AND";
 
             case NAND:
                 return "NAND";
@@ -36,12 +36,12 @@ public enum GateType {
                 return "BUF";
 
             default:
-            System.err.println("Invalid gate type!");
-            return "";
+                System.err.println("Invalid gate type!");
+                return "";
         }
     }
 
-    static GateType readType(String type){
+    static GateType readType(String type) {
         switch (type) {
             case "input":
                 return INPUT;
@@ -53,7 +53,7 @@ public enum GateType {
                 return WIRE;
 
             case "and":
-                return AND; 
+                return AND;
 
             case "nand":
                 return NAND;

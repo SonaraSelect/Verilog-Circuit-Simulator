@@ -1,0 +1,15 @@
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\bin\Debug\net9.0\CsharpEdition.exe
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\bin\Debug\net9.0\CsharpEdition.deps.json
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\bin\Debug\net9.0\CsharpEdition.runtimeconfig.json
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\bin\Debug\net9.0\CsharpEdition.dll
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\bin\Debug\net9.0\CsharpEdition.pdb
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.AssemblyInfoInputs.cache
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.AssemblyInfo.cs
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.csproj.CoreCompileInputs.cache
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.sourcelink.json
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.dll
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\refint\CsharpEdition.dll
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.pdb
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\CsharpEdition.genruntimeconfig.cache
+C:\Users\Rein Reign\Documents\GitHub\Verilog-Circuit-Simulator\CsharpEdition\obj\Debug\net9.0\ref\CsharpEdition.dll

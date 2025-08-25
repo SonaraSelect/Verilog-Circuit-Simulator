@@ -1,4 +1,4 @@
-package backend;
+package JavaEdition.backend;
 
 import java.util.HashMap;
 
@@ -114,7 +114,7 @@ public class Entity {
     /**
      * 
      * @param level
-     * @param sched         hashmap that organizes each entity by level
+     * @param sched hashmap that organizes each entity by level
      */
     void calculateLevels(int newLevel, HashMap<Integer, HashMap<String, Entity>> sched) {
         // If we reach a flip flop, stop and do not calibrate
@@ -139,9 +139,9 @@ public class Entity {
      * logged into the sched data set,
      * and updates the value accordingly
      * 
-     * @param oldLevel 
-     * @param newLevel the 
-     * @param sched the scheduling database
+     * @param oldLevel
+     * @param newLevel the
+     * @param sched    the scheduling database
      */
     void recordLevel(int oldLevel, int newLevel, HashMap<Integer, HashMap<String, Entity>> sched) {
         // If the entity was previously logged into sched, remove it

@@ -1,4 +1,4 @@
-package backend;
+package JavaEdition.backend;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

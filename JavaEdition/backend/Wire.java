@@ -1,4 +1,4 @@
-package backend;
+package JavaEdition.backend;
 
 public class Wire extends Entity {
 

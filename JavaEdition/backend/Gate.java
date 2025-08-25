@@ -1,4 +1,4 @@
-package backend;
+package JavaEdition.backend;
 
 import java.io.FileWriter;
 import java.io.IOException;

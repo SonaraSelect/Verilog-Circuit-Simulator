@@ -1,4 +1,4 @@
-package backend;
+package JavaEdition.backend;
 
 public class DataWrapper<T> {
     T data;
